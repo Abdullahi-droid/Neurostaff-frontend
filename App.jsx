@@ -1,3 +1,8 @@
 export default function App() {
-  return <h1>Welcome to NeuroStaff - Live Site Ready</h1>
+  return (
+    <div style={{ padding: "2rem", textAlign: "center" }}>
+      <h1>NeuroStaff is Live</h1>
+      <p>Your AI employee website is ready.</p>
+    </div>
+  )
 }
